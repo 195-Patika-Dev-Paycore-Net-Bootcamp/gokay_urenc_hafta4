@@ -67,22 +67,6 @@
             </a>
         </p>
     </li>
-    <li>
-        <h3>Araçlar (vehicles) tablosuna ait id kolonunun özellikleri</h3>
-        <p dir="auto">
-            <a target="_blank" rel="noopener noreferrer" href="">
-                <img src="https://i.hizliresim.com/qa9aw1d.png" alt="Swagger" style="max-width: 100%;">
-            </a>
-        </p>
-    </li>
-    <li>
-        <h3>Konteynerler (containers) tablosuna ait id kolonunun özellikleri</h3>
-        <p dir="auto">
-            <a target="_blank" rel="noopener noreferrer" href="">
-                <img src="https://i.hizliresim.com/h3c2anq.png" alt="Swagger" style="max-width: 100%;">
-            </a>
-        </p>
-    </li>
 </ul>
 
 <hr />
