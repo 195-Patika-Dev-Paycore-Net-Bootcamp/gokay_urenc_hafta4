@@ -9,7 +9,7 @@
     <li><a href="https://nhibernate.info" target="_blank">NHibernate</a> ORM aracından yararlanılmıştır.</li>
     <li>Sonuçlar en aşağıda yer almaktadır.</li>
     <li>Veritabanına ait script kodlarına <a href="https://pastebin.com/pk7mtrZz" target="_blank">bu linkten</a> erişilebilir. (VPN gerekebilir.)</li>
-    <li>Özel bir algoritma yapısı kullanılmamıştır. Ancak uzaklık hesaplaması için matematiksel formüllerden yararlanılmıştır.</li>
+    <li>Travelling salesman algoritmasından yararlanılmıştır. Uzaklık hesaplaması için matematiksel formüllerden yararlanılmıştır.</li>
     <li>Kümeleme işlemlerinde kullanılan metodun oluşturulmasında yardımcı bir model sınıf kullanılmıştır.</li>
 </ul>
 
