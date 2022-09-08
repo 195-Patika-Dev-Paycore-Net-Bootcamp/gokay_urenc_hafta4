@@ -34,7 +34,7 @@ namespace PayCoreClassWork4.Controllers
                 list.Add(Calculation.GetDistance(containers[i], containers[i + 1])); // Hesaplanan veriler listeye uzaklık bilgisiyle beraber eklenir.
 
             var clusteredList = Calculation.Cluster(list, (int)clusterCount); // Kümeleme algoritması devreye girer. Belirtilen küme sayısı kadar kümelenir. Eşit bölünememe durumunda son kümelere düzgün dağıtım yapılarak kümelenir.
-            return Ok(clusteredList); // Kümeler listesi "Başarılı" mesajıyla birlikte döndürülür.
+            return Ok(clusteredList); // X farklı rotadan (kümeler) en kısa yol kullanılarak tüm konteynerlerin boşaltım ve doldurma işleminin gerçekleşme sırasının JSON çıktısı alınır.
         }
     }
 }
